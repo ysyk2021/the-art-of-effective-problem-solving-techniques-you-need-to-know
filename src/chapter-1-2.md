@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Overview of the Book's Contents
+Overview of the Book's Contents
 ========================================================
 
 Effective problem-solving is a critical skill that can benefit individuals in many areas of life. From personal conflicts to complex business challenges, the ability to identify, analyze, and resolve problems is essential for success. "The Art of Effective Problem-Solving: Techniques You Need to Know" is a comprehensive guide to developing and utilizing effective problem-solving skills.

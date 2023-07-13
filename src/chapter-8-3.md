@@ -1,4 +1,4 @@
-Chapter 8: Applying Effective Problem-Solving Beyond Work: Examples of Individuals Who Successfully Applied Problem-Solving Beyond Work
+Examples of Individuals Who Successfully Applied Problem-Solving Beyond Work
 =======================================================================================================================================
 
 Effective problem-solving is a valuable skill that can be applied to many areas of life beyond the workplace. In this chapter, we will explore examples of individuals who successfully applied problem-solving skills to achieve success in personal and social contexts.

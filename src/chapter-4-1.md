@@ -1,4 +1,4 @@
-Chapter 4: Developing Solutions with Creative Thinking: Techniques for Creative Thinking in Problem-Solving
+Techniques for Creative Thinking in Problem-Solving
 ===========================================================================================================
 
 Creative thinking is an essential tool for effective problem-solving. In this chapter, we will discuss techniques for creative thinking that can be applied to problem-solving.

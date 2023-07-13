@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Importance of effective problem-solving](chapter-1-1.md)
   - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: Understanding Effective Problem-Solving](chapter-2.md)
@@ -36,8 +35,4 @@
   - [Importance of mindfulness in effective problem-solving](chapter-9-1.md)
   - [Techniques for practicing mindfulness to improve problem-solving](chapter-9-2.md)
   - [Examples of individuals who achieved benefits from mindfulness in effective problem-solving](chapter-9-3.md)
-- [Chapter 10: Conclusion](chapter-10.md)
-  - [Summary of key points](chapter-10-1.md)
-  - [Final thoughts on the art of effective problem-solving and the techniques needed to master it](chapter-10-2.md)
 - [Conclusion](conclusion.md)
-- [Contacts](contacts.md)

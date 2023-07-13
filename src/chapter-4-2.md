@@ -1,4 +1,4 @@
-Chapter 4: Developing Solutions with Creative Thinking: Strategies for Brainstorming and Idea Generation
+Strategies for Brainstorming and Idea Generation
 ========================================================================================================
 
 Creative thinking is essential for effective problem-solving. In this chapter, we will discuss strategies for brainstorming and idea generation to develop solutions using creative thinking.

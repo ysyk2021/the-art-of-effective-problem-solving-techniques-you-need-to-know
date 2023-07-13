@@ -1,4 +1,4 @@
-Chapter 6: Collaborating Through Problem-Solving: Examples of Successful Collaborations That Utilized Effective Problem-Solving Techniques
+Examples of Successful Collaborations That Utilized Effective Problem-Solving Techniques
 ==========================================================================================================================================
 
 Collaboration is an essential part of effective problem-solving. By bringing together different perspectives and skills, individuals can develop more innovative and effective solutions. In this chapter, we will explore examples of successful collaborations that utilized effective problem-solving techniques.

@@ -1,4 +1,4 @@
-Chapter 8: Applying Effective Problem-Solving Beyond Work: Importance of Applying Effective Problem-Solving Beyond Work
+Importance of Applying Effective Problem-Solving Beyond Work
 =======================================================================================================================
 
 Effective problem-solving is not only important in the workplace but also in our personal lives. In this chapter, we will explore the importance of applying effective problem-solving beyond work.

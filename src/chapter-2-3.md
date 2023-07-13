@@ -1,4 +1,4 @@
-Chapter 2: Understanding Effective Problem-Solving: Benefits of Effective Problem-Solving
+Benefits of Effective Problem-Solving
 =========================================================================================
 
 Effective problem-solving is a critical skill that can benefit individuals in many areas of life. In this chapter, we will discuss some of the benefits of effective problem-solving.

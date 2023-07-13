@@ -1,4 +1,4 @@
-Chapter 2: Understanding Effective Problem-Solving: Common Misconceptions About Problem-Solving
+Common Misconceptions About Problem-Solving
 ===============================================================================================
 
 Effective problem-solving is a critical skill that can benefit individuals in both personal and professional life. However, there are several common misconceptions about problem-solving that can hinder individuals' ability to effectively solve problems. In this chapter, we will discuss these misconceptions and how to avoid them.

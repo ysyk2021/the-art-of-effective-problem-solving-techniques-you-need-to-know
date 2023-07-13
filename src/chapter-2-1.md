@@ -1,4 +1,4 @@
-Chapter 2: Understanding Effective Problem-Solving: Definition of Effective Problem-Solving
+Definition of Effective Problem-Solving
 ===========================================================================================
 
 Effective problem-solving is the process of identifying, analyzing, and resolving problems in a timely and efficient manner. It involves the ability to think critically and creatively, identify underlying causes of problems, and develop and implement solutions that address those causes.

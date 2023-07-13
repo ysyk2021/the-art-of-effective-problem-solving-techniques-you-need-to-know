@@ -1,4 +1,4 @@
-Chapter 7: Overcoming Obstacles to Effective Problem-Solving: Strategies for Overcoming These Obstacles
+Strategies for Overcoming These Obstacles
 =======================================================================================================
 
 Effective problem-solving can be challenging, and there are many obstacles that can impede progress. In this chapter, we will explore strategies for overcoming these obstacles to achieve successful outcomes.

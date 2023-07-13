@@ -1,4 +1,4 @@
-Chapter 3: Techniques for Identifying Problems: Strategies for Effective Communication of Problems
+Strategies for Effective Communication of Problems
 ==================================================================================================
 
 Identifying problems is a crucial step in effective problem-solving. In this chapter, we will discuss techniques for identifying problems and strategies for effectively communicating those problems.

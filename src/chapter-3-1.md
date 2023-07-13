@@ -1,4 +1,4 @@
-Chapter 3: Techniques for Identifying Problems: Techniques for Identifying Problems and Their Causes
+Techniques for Identifying Problems and Their Causes
 ====================================================================================================
 
 Identifying problems and their causes is a crucial step in effective problem-solving. In this chapter, we will discuss techniques for identifying problems and their causes.

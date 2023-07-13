@@ -1,4 +1,4 @@
-Chapter 8: Applying Effective Problem-Solving Beyond Work: Strategies for Using Problem-Solving to Solve Personal Challenges
+Strategies for Using Problem-Solving to Solve Personal Challenges
 ============================================================================================================================
 
 Effective problem-solving is a valuable skill that can be applied beyond the workplace to solve personal challenges. In this chapter, we will explore strategies for using problem-solving to address personal challenges.

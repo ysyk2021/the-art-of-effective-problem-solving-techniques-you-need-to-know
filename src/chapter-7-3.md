@@ -1,4 +1,4 @@
-Chapter 7: Overcoming Obstacles to Effective Problem-Solving: Tips for Maintaining Motivation and Commitment to Problem-Solving
+Tips for Maintaining Motivation and Commitment to Problem-Solving
 ===============================================================================================================================
 
 Effective problem-solving can be a challenging process, and it is common to face obstacles along the way. These obstacles can cause frustration, stress, and a lack of motivation, which can hinder progress. In this chapter, we will explore tips for maintaining motivation and commitment to problem-solving.

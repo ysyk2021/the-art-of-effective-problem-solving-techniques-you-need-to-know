@@ -1,4 +1,4 @@
-Chapter 7: Overcoming Obstacles to Effective Problem-Solving: Common Obstacles to Effective Problem-Solving
+Common Obstacles to Effective Problem-Solving
 ===========================================================================================================
 
 Effective problem-solving is an essential skill in personal and professional life, but it can be challenging to overcome obstacles that arise during the process. In this chapter, we will explore common obstacles to effective problem-solving.

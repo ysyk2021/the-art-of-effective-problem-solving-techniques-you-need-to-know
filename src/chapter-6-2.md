@@ -1,4 +1,4 @@
-Chapter 6: Collaborating Through Problem-Solving: Strategies for Effective Collaboration with Others to Solve Problems
+Strategies for Effective Collaboration with Others to Solve Problems
 ======================================================================================================================
 
 Collaboration is an essential part of effective problem-solving. By working with others to identify and analyze problems, generate potential solutions, and implement and evaluate those solutions, individuals can develop more innovative and effective solutions. In this chapter, we will explore strategies for effective collaboration with others to solve problems.

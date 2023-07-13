@@ -1,4 +1,4 @@
-Chapter 6: Collaborating Through Problem-Solving: Importance of Collaboration in Problem-Solving
+Importance of Collaboration in Problem-Solving
 ================================================================================================
 
 Collaboration is an essential part of effective problem-solving. It involves working with others to identify and analyze problems, generate potential solutions, and implement and evaluate those solutions. In this chapter, we will explore the importance of collaboration in problem-solving.
