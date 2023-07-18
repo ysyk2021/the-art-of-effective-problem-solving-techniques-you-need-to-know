@@ -12,9 +12,6 @@ The techniques outlined in this book will help you to identify the root cause of
 
 Whether you're looking to advance your career, improve your personal relationships, or simply become a more effective problem solver, "The Art of Effective Problem-Solving: Techniques You Need to Know" is the ultimate resource for mastering this essential skill.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
