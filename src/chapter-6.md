@@ -1,5 +1,3 @@
-Chapter 6: Collaborating Through Problem-Solving
-================================================
 
 Collaboration is an essential part of effective problem-solving. It involves working with others to identify and analyze problems, generate potential solutions, and implement and evaluate those solutions. In this chapter, we will explore the importance of collaboration in problem-solving, provide strategies for effective collaboration with others to solve problems, and give examples of successful collaborations that utilized effective problem-solving techniques.
 

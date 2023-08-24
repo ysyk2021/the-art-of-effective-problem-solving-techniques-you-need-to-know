@@ -1,5 +1,3 @@
-Techniques for Creative Thinking in Problem-Solving
-==============================================================
 
 In problem-solving, creative thinking plays a crucial role in generating innovative solutions and uncovering hidden opportunities. This chapter will explore various techniques that can enhance your creativity and help you approach problem-solving with a fresh perspective.
 

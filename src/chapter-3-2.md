@@ -1,5 +1,3 @@
-Strategies for Effective Communication of Problems
-==============================================================
 
 In this chapter, we will explore strategies for effectively communicating problems in order to facilitate problem-solving and promote understanding among stakeholders.
 

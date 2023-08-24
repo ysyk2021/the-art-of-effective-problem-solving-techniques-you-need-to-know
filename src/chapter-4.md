@@ -1,5 +1,3 @@
-Chapter 4: Developing Solutions with Creative Thinking
-======================================================
 
 Creative thinking is a crucial aspect of effective problem-solving. In this chapter, we will discuss techniques for creative thinking in problem-solving, strategies for brainstorming and idea generation, and examples of individuals who successfully developed solutions using creative thinking.
 

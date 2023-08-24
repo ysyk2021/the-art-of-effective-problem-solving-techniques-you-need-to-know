@@ -1,5 +1,3 @@
-Chapter 2: Understanding Effective Problem-Solving
-==================================================
 
 Effective problem-solving is a crucial skill that can benefit individuals in both personal and professional life. In this chapter, we will discuss the definition of effective problem-solving, common misconceptions about problem-solving, and the benefits of effective problem-solving.
 

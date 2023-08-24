@@ -1,5 +1,3 @@
-Common Obstacles to Effective Problem-Solving
-=========================================================
 
 In this chapter, we will examine common obstacles that individuals face when trying to solve problems effectively. Recognizing and understanding these obstacles can help individuals develop strategies to overcome them and improve their problem-solving skills.
 
