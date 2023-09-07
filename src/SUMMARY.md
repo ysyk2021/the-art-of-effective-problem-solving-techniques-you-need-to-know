@@ -35,3 +35,5 @@
   - [Techniques for practicing mindfulness to improve problem-solving](chapter-9-2.md)
   - [Examples of individuals who achieved benefits from mindfulness in effective problem-solving](chapter-9-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
